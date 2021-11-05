@@ -1,0 +1,9 @@
+File Created SuccessfullyOpenGL vendor: NVIDIA Corporation
+OpenGL version: 4.6.0 NVIDIA 390.65
+GLSLVersion: 4.60 NVIDIA
+
+COMPUTE SHADER: 
+Local work group max size
+Size x: 1536 , Size y: 1536 , Size z: 1536 
+Max shared memory size: 49152
+File Closed Successfully

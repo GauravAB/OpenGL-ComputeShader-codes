@@ -1,0 +1,3 @@
+#define ID_BITMAP_HE 105
+#define ID_BITMAP_LE 102
+#define ID_BITMAP_BRICK 108

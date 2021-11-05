@@ -1,0 +1,7 @@
+changes made from ortho code:
+
+1)changed matrix name from orthogonalProjectionMatrix -> perspecticeProjectionMatrix
+
+2)data in triangle array converted to normalized coordinates
+
+3)used perspective matrix : vmath::Perspective(fovy,aspect ratio,near,far)
